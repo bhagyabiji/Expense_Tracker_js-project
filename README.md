@@ -53,10 +53,20 @@ expense-tracker/
 6. View the updated balance and transaction history.
 7. Delete a transaction whenever required.
 
+##  Concepts Practiced
+
+- DOM manipulation
+- JavaScript event handling
+- Functions and conditional statements
+- Arrays and objects
+- Array methods such as `push()` and `splice()`
+- Dynamic HTML element creation
+- Local Storage
+- JSON parsing and stringification
+- Basic form validation
 
 
-
-## 👩‍💻 Author
+##  Author
 
 Bhagya B.
 
